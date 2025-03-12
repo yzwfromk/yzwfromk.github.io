@@ -20,7 +20,8 @@ Before that, I earned my Bachelor of Science in Mechanical Engineering from [KAI
 
 What You’ll Find Here
 ======
-This site serves as documentation for my work and includes:<br/>
+This site serves as documentation for my work and includes:
+
 📄 Research – Papers, publications, and ongoing projects<br/>
 🛠 Projects – Hands-on robotics and software contributions<br/>
 📚 Technical Notes – Algorithms, insights, and guides<br/>
