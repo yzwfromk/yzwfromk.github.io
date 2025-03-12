@@ -8,11 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Activities"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   - title: "Projects"
     url: /projects/
@@ -20,6 +17,9 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
+  - title: "Activities"
+    url: /talks/    
+
   - title: "CV"
-    url: ""
+    url: "https://www.dropbox.com/scl/fi/e1jwbv8bl1skiosu0yac5/Ziwon_Yoon_CV.pdf?rlkey=izncfy7fzmvuu2jb28yfw4aoo&st=hbgnhy45&dl=0"
     
