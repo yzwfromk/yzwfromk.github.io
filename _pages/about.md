@@ -7,21 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Robotics working in [LiDAR Group]() at Georgia Tech, advised by [Prof. Ye Zhao](), specializing in humanoid and legged robot navigation, motion planning, and control. My work focuses on:
+I am a Ph.D. student in Robotics working in [LiDAR Group](https://lab-idar.gatech.edu/) at Georgia Tech, advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/principal-nvestigator/), specializing in humanoid and legged robot navigation, motion planning, and control. My work focuses on:
 
-🌍 Autonomous humanoid mobility in real-world environments
-🤖 Reinforcement learning & optimal control for robot motion
-🎯 State estimation & perception systems for bipedal robots
+🌍 Autonomous humanoid mobility in real-world environments<br/>
+🤖 Reinforcement learning & optimal control for robot motion<br/>
+🎯 State estimation & perception systems for bipedal robots<br/>
 
-Before that, I earned my Bachelor of Science in Mechanical Engineering from [KAIST (Korea Advanced Institute of Science and Technology)](), where I conducted research in legged robot state estimation and reinforcement learning-based control under [Prof. Hae-Won Park]().
+With this techincal developments, I believe robots with robustness to environmental uncertainties can help people be free from labor in hazardous and extreme environments.
+
+Before that, I earned my Bachelor of Science in Mechanical Engineering from [KAIST](https://kaist.ac.kr), where I conducted research in legged robot state estimation in [DRCD Lab](https://www.dynamicrobot.kaist.ac.kr/) under [Prof. Hae-Won Park](https://www.dynamicrobot.kaist.ac.kr/members).
 
 
 What You’ll Find Here
 ======
-This site serves as documentation for my work and includes:
-📄 Research – Papers, publications, and ongoing projects
-🛠 Projects – Hands-on robotics and software contributions
-📚 Technical Notes – Algorithms, insights, and guides
+This site serves as documentation for my work and includes:<br/>
+📄 Research – Papers, publications, and ongoing projects<br/>
+🛠 Projects – Hands-on robotics and software contributions<br/>
+📚 Technical Notes – Algorithms, insights, and guides<br/>
 📂 Resources – Links to useful repositories and references
 
 <!-- 
