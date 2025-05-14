@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Robotics working in [LiDAR Group](https://lab-idar.gatech.edu/) at Georgia Tech, advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/principal-nvestigator/), specializing in humanoid and legged robot navigation, motion planning, and control. My work focuses on:
+I am a Ph.D. student in Robotics working in [LiDAR Group](https://lab-idar.gatech.edu/) and [Lunar Lab](https://sites.gatech.edu/lunarlab/) at Georgia Tech, advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/principal-nvestigator/) and [Lu Gan](https://ganlumomo.github.io/), specializing in humanoid and legged robot navigation, motion planning, control, and state estimation. My work focuses on:
 
-🌍 Autonomous humanoid mobility in real-world environments<br/>
-🤖 Reinforcement learning & optimal control for robot motion<br/>
-🎯 State estimation & perception systems for bipedal robots<br/>
+🌍 Autonomous humanoid navigation & planning<br/>
+🤖 Reinforcement learning & optimal control for legged robots<br/>
+🎯 State estimation & perception systems for legged robots<br/>
 
 With this techincal developments, I believe robots with robustness to environmental uncertainties can help people be free from labor in hazardous and extreme environments.
 
@@ -22,10 +22,11 @@ What You’ll Find Here
 ======
 This site serves as documentation for my work and includes:
 
-📄 Research – Papers, publications, and ongoing projects<br/>
+📄 Research (Publications) – Papers, publications, and ongoing projects<br/>
 🛠 Projects – Hands-on robotics and software contributions<br/>
 📚 Technical Notes – Algorithms, insights, and guides<br/>
 📂 Resources – Links to useful repositories and references
+📄 CV - My CV
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
