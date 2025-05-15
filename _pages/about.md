@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Robotics working in [LiDAR Group](https://lab-idar.gatech.edu/) and [Lunar Lab](https://sites.gatech.edu/lunarlab/) at Georgia Tech, advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/principal-nvestigator/) and [Lu Gan](https://ganlumomo.github.io/), specializing in humanoid and legged robot navigation, motion planning, control, and state estimation. My work focuses on:
+
+Recent News
+======
+I'm doing software engineering internship at IHMC in Florida 🏖️ this summer!
+
+
+
+I am...
+======
+
+a Ph.D. student in Robotics working in [LiDAR Group](https://lab-idar.gatech.edu/) and [Lunar Lab](https://sites.gatech.edu/lunarlab/) at Georgia Tech, advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/principal-nvestigator/) and [Lu Gan](https://ganlumomo.github.io/), specializing in humanoid and legged robot navigation, motion planning, control, and state estimation. My work focuses on:
 
 🌍 Autonomous humanoid navigation & planning<br/>
 🤖 Reinforcement learning & optimal control for legged robots<br/>
@@ -25,7 +35,7 @@ This site serves as documentation for my work and includes:
 📄 Research (Publications) – Papers, publications, and ongoing projects<br/>
 🛠 Projects – Hands-on robotics and software contributions<br/>
 📚 Technical Notes – Algorithms, insights, and guides<br/>
-📂 Resources – Links to useful repositories and references
+📂 Resources – Links to useful repositories and references<br/>
 📄 CV - My CV
 
 <!-- 
