@@ -12,16 +12,18 @@ Recent News
 ======
 I'm doing software engineering internship at IHMC in Florida 🏖️ this summer!
 
+My new paper STATE-NAV, the first learning-based traversability estimation and navigation for humanoids on diverse rough terrain, is now on ArXiv!
+
 
 
 I am...
 ======
 
-a Ph.D. student in Robotics working in [LiDAR Group](https://lab-idar.gatech.edu/) and [Lunar Lab](https://sites.gatech.edu/lunarlab/) at Georgia Tech, advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/principal-nvestigator/) and [Lu Gan](https://ganlumomo.github.io/), specializing in humanoid and legged robot navigation, motion planning, control, and state estimation. My work focuses on:
+a Ph.D. student in Robotics working in [LiDAR Group](https://lab-idar.gatech.edu/) and [Lunar Lab](https://sites.gatech.edu/lunarlab/) at Georgia Tech, advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/principal-nvestigator/) and [Prof. Lu Gan](https://ganlumomo.github.io/), specializing in humanoid and legged robot navigation, perception, control, and state estimation. My work focuses on:
 
 🌍 Autonomous humanoid navigation & planning<br/>
-🤖 Reinforcement learning & optimal control for legged robots<br/>
 🎯 State estimation & perception systems for legged robots<br/>
+🤖 Reinforcement learning & optimal control for legged robots<br/>
 
 With this techincal developments, I believe robots with robustness to environmental uncertainties can help people be free from labor in hazardous and extreme environments.
 
