@@ -10,10 +10,7 @@ redirect_from:
 
 Recent News
 ======
-I'm doing software engineering internship at IHMC in Florida 🏖️ this summer!
-
-My new paper STATE-NAV, the first learning-based traversability estimation and navigation for humanoids on diverse rough terrain, is now on ArXiv!
-
+STATE-NAV, the first learning-based traversability estimation for humanoids outdoor terrain navigation, is accepted to a journal IEEE RA-L! It will be also presented at ICRA 2026.
 
 
 I am...

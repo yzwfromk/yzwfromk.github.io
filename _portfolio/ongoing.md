@@ -1,5 +1,5 @@
 ---
-title: "STATE-NAV: Stability-Aware Traversability Estimation for Bipedal Navigation on Rough Terrain"
-excerpt: "Doing hardware experiment for STATE-NAV paper.<br/><img src='/images/500x300.png'>"
+title: "VLM-aided interactive navigation for humanoid navigation on outdoor navigation"
+excerpt: "This is my new ongoing project. Using vision foundation models and VLMs for semantic understanding of human-centered cluttered environment and outdoor terrain.<br/>"
 collection: portfolio
 ---
