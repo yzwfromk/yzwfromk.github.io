@@ -10,7 +10,7 @@ redirect_from:
 
 Recent News
 ======
-STATE-NAV, the first learning-based traversability estimation for humanoids outdoor terrain navigation, is accepted to a journal IEEE RA-L! It will be also presented at ICRA 2026.
+STATE-NAV, the first learning-based traversability estimation for humanoids outdoor terrain navigation, is accepted to a journal IEEE RA-L! It will be also presented at ICRA 2026. Now ROS1 and ROS2 versions with sharedmemory and multiprocessing are supported in Github.
 
 
 I am...
@@ -31,10 +31,9 @@ What You’ll Find Here
 ======
 This site serves as documentation for my work and includes:
 
-📄 Research (Publications) – Papers, publications, and ongoing projects<br/>
-🛠 Projects – Hands-on robotics and software contributions<br/>
-📚 Technical Notes – Algorithms, insights, and guides<br/>
-📂 Resources – Links to useful repositories and references<br/>
+📄 Publications (Research) – Publised papers<br/>
+🛠 Projects – Includes ongoing works<br/>
+📚 Activities – Miscellaneous funs!<br/>
 📄 CV - My CV
 
 <!-- 
