@@ -10,6 +10,10 @@ redirect_from:
 
 Recent News
 ======
+**[Nov 2026]** HINT-VLM will be presented at the CoRL 2026 SISREN Workshop! An **embodiment-grounded** VLM lets humanoids decide which obstacles to push or avoid on rough terrain. Now extending it to world-model-based loco-manipulation reasoning. [[arXiv]](https://arxiv.org/abs/2611.11665) [[Video]](https://yzwfromk.github.io/HINT_VLM/#real-world)
+
+**[Aug 2026]** Finished my research internship at [VinMotion](https://vinmotion.net/), working on grounding VLMs with the embodied capability of humanoids for navigation. The collaboration continues: VinMotion funds my GRA for Fall 2026.
+
 STATE-NAV, the first learning-based traversability estimation for humanoids outdoor terrain navigation, is accepted to a journal IEEE RA-L! It will be also presented at ICRA 2026. Now ROS1 and ROS2 versions with sharedmemory and multiprocessing are supported in Github.
 
 
